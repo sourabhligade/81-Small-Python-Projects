@@ -5,6 +5,8 @@ View this code at https://nostarch.com/big-book-small-python-projects
 Tags: short, math, simulation"""
   
 
+
+
 import datetime,random
 def getBirthdays(numberofBirthdays):
     birthdays=[]
