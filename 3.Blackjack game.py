@@ -7,6 +7,7 @@ CLUBS    = chr(9827) # Character 9827 is '♣'.
 BACKSIDE = 'backside'
 
 
+
 def main():
     print('''Blackjack, by Al Sweigart al@inventwithpython.com
 
