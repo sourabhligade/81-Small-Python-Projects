@@ -6,8 +6,6 @@ except ImportError:
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 print('The Caesar cipher encrypts letters by shifting them over by a')
-
-
 print('key number. For example, a key of 2 means the letter A is')
 print('encrypted into C, the letter B encrypted into D, and so on.')
 print()
