@@ -4,7 +4,7 @@ print('''
 Carrot in a Box, by Al Sweigart al@inventwithpython.com
 
 This is a bluffing game for two human players. Each player has a box.
-One box has a carrot in it. To win, you must have the box with the
+One box has a carrot in it. To win, you mus have the box with the
 carrot in it.
 
 This is a very simple and silly game.
