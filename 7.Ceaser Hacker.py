@@ -1,5 +1,5 @@
 """This program hacks messages encrypted with the Caesar 
-cipher by doing a brute force attack against every possible key."""
+cipher by doing a brute force attack agaist every possible key."""
 
 print('Ceaser Cipher by Sourabh Ligade')
 f
